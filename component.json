@@ -1,0 +1,14 @@
+{
+  "name": "remove-element",
+  "repo": "hughsk/remove-element",
+  "description": "Removes an element from the DOM",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
