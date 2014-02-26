@@ -1,0 +1,26 @@
+{
+  "name": "remove-element",
+  "description": "Removes an element from the DOM",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "scripts": {
+    "test": "say sorry && exit 1"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/remove-element"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/remove-element/issues"
+  },
+  "homepage": "https://github.com/hughsk/remove-element",
+  "keywords": [
+    "remove",
+    "element",
+    "dom",
+    "node"
+  ]
+}
